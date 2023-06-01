@@ -1,2 +1,3 @@
-# aim
-Aqua Import Manager(Beta)
+# Aqua Import Manager - AIM
+
+![](./image/logo.png)
